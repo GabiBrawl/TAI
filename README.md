@@ -1,5 +1,5 @@
 # TAI - Transparent Account Image
-Have you ever tried to apply an image with transparent background, but windows changed the transparent to black? Well, here I have the solution! Just download and run the program with administrative privileges, get the image you wanna set, apply and you're done!
+Have you ever tried to apply an image with transparent background as your account's profile picture, but windows decided to ruin the transparent background to black? I gotcha! Just download and run this program with administrative privileges set your image through there, done! (You may need to restart the computer for changes to apply) 
 
 ## The program
 ![The program](https://user-images.githubusercontent.com/85069997/148305543-6afd7c03-1ba3-4f1f-8a64-41340182eac4.png)
